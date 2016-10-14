@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2", "HW2\HW2.csproj", "{2E9E7B25-0189-4F99-A5F9-BB75DAA8DC7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTesting", "CommonTesting\CommonTesting.csproj", "{C7C13745-3922-4602-B3C9-B815A6855593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9E7B25-0189-4F99-A5F9-BB75DAA8DC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9E7B25-0189-4F99-A5F9-BB75DAA8DC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9E7B25-0189-4F99-A5F9-BB75DAA8DC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9E7B25-0189-4F99-A5F9-BB75DAA8DC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C13745-3922-4602-B3C9-B815A6855593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C13745-3922-4602-B3C9-B815A6855593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C13745-3922-4602-B3C9-B815A6855593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C13745-3922-4602-B3C9-B815A6855593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

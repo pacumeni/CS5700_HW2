@@ -1,0 +1,10 @@
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\obj\Debug\HW2.PortfolioForm.resources
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\obj\Debug\HW2.Forms.GraphForm.resources
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\obj\Debug\HW2.PanelOptions.resources
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\obj\Debug\HW2.Forms.TableForm.resources
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.Cache
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\HW2\obj\Debug\HW2.pdb

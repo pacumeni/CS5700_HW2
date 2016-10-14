@@ -1,0 +1,7 @@
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\CommonTesting\bin\Debug\CommonTesting.dll
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\CommonTesting\bin\Debug\CommonTesting.pdb
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\CommonTesting\bin\Debug\HW2.exe
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\CommonTesting\bin\Debug\HW2.pdb
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\CommonTesting\obj\Debug\CommonTesting.csprojResolveAssemblyReference.cache
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\CommonTesting\obj\Debug\CommonTesting.dll
+C:\Users\whipnwalt\Desktop\School, USU\CS 5700 O-O Programming\HW2\CommonTesting\obj\Debug\CommonTesting.pdb
